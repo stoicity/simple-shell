@@ -1,0 +1,3 @@
+[submodule "generics-data-structures"]
+	path = generics-data-structures
+	url = https://github.com/stoicity/generics-data-structures
